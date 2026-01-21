@@ -36,8 +36,26 @@ This project combines **Machine Learning + Backend API + Frontend UI** for an en
 ---
 
 ## 📂 Project Structure
+```
 
-
+Home_Price_prediction/
+│
+├── client/ # Frontend (UI)
+│ ├── index.html # Main UI page
+│ ├── style.css # Styling
+│ ├── script.js # JS logic & API calls
+│
+├── server/ # Backend (Flask API)
+│ ├── app.py # Main Flask server
+│ ├── util.py # Helper / utility functions
+│ ├── requirements.txt # Python dependencies
+│
+├── model/ # Machine Learning
+│ ├── bango_price_prediction.ipynb # Training notebook
+│ ├── house_price_model.pkl # Trained ML model
+│ ├── columns.json # Feature columns mapping
+│
+```
 ---
 
 ## ⚙️ How to Run the Project Locally
