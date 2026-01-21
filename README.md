@@ -48,7 +48,7 @@ This project combines **Machine Learning + Backend API + Frontend UI** for an en
 git clone https://github.com/DhruvaPratapSingh/Home_Price_prediction.git
 cd Home_Price_prediction
 
-
+```
 ### 🏡 Home Page
-![Home Page](<img width="969" height="856" alt="image" src="https://github.com/user-attachments/assets/d54f6046-eece-434f-8e47-eed6c98d61f1" />)
-
+![Home Page](https://github.com/user-attachments/assets/d54f6046-eece-434f-8e47-eed6c98d61f1)
+```
